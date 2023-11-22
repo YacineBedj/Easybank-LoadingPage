@@ -11,11 +11,9 @@
 - [AOS](https://michalsnik.github.io/aos/) - CSS library
 
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 In this project i learned how to use SCSS in a real live project, also i learned how to do some amazing animation with 
-some labriries
+some animation labriries
 
 
